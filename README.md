@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/youmna-mohamed" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/youmna-mohamed-a891bb349" aria-label="LinkedIn">
     <img src="./assets/linkedin.svg" width="44" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
